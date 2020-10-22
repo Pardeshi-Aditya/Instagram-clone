@@ -15,7 +15,7 @@ const Posts = () => {
             })))
         })
     }, [])
-
+    const currentUser="name"
     return (
         <div className='posts'>
             <div className='posts_left'>
